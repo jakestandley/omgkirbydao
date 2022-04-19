@@ -88,6 +88,8 @@ Multisig Wallet Address: [ 0x7291cc605653a9FCfbceD63313156E654eAF259b](https://e
 
 This sprint's expenses were primarily for the Community Manager/Mod payments, and a social media manager that has been working with omgkirby and slowly taking over the responsibilities of posting more often/consistently.
 
+The Community Manager's pay for this Sprint was greatly inflated, as it had not been paid from mint, until now. So the costs should return to much lower levels (.45ETH/wk) moving forward.
+
 As the Working Groups really kick off their work this Sprint, I'm expecting slightly higher costs for Marketing, and potentially for the DAO Album.
 
 ## Post Mortem <a href="#post-mortem" id="post-mortem"></a>
