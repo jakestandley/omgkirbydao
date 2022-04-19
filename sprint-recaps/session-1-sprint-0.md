@@ -86,6 +86,10 @@ Multisig Wallet Address: [ 0x7291cc605653a9FCfbceD63313156E654eAF259b](https://e
 
 [You view the full breakdown in google sheets here!](https://docs.google.com/spreadsheets/d/1v1ckEMVA130H4D5kkThoRU4ddfhxoySqheS9bZK1foc/edit?usp=sharing)
 
+This sprint's expenses were primarily for the Community Manager/Mod payments, and a social media manager that has been working with omgkirby and slowly taking over the responsibilities of posting more often/consistently.
+
+As the Working Groups really kick off their work this Sprint, I'm expecting slightly higher costs for Marketing, and potentially for the DAO Album.
+
 ## Post Mortem <a href="#post-mortem" id="post-mortem"></a>
 
 **Note:** Organized by Working Group in future recaps
