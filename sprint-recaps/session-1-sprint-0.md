@@ -29,6 +29,10 @@ Check out our collab with DeadHeads
 
 I'm excited to see what other collaborations we can come up with, especially as we continue to get more guidance from the Community!
 
+We're also excited to see the community continue to drop their genesis NFTs on traditional music NFTs! If you've put yours out, make sure to share those with me on Twitter or Discord. Check out one example below!
+
+{% embed url="https://twitter.com/theesportsmafia/status/1514327407288741889?s=20&t=4p6-p_2Q_0NOJo4COi-oAA" %}
+
 ## Proposals <a href="#proposals" id="proposals"></a>
 
 During Sprint 0 of Session 1, we kicked off a more informal voting strategy for small decisions in the DAO - specifically those that didn't require any funding from our Treasury. Those included votes for:
