@@ -12,6 +12,7 @@
 
 ## 🏃 Sprint Recaps
 
+* [Session 1: Sprint 0](sprint-recaps/session-1-sprint-0.md)
 * [Post Mint](sprint-recaps/post-mint.md)
 
 ## 🎙 Audio Recordings
