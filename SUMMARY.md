@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
+* [💹 Treasury Info](treasury-info.md)
 * [👷♀ Working Groups](working-groups.md)
 * [❓ FAQ](faq.md)
 
