@@ -13,6 +13,7 @@
 
 ## 🏃 Sprint Recaps
 
+* [Session 1: Sprint 1](sprint-recaps/session-1-sprint-1.md)
 * [Session 1: Sprint 0](sprint-recaps/session-1-sprint-0.md)
 * [Post Mint](sprint-recaps/post-mint.md)
 
