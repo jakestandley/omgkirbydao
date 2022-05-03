@@ -73,7 +73,7 @@ Multisig Wallet Address: [ 0x7291cc605653a9FCfbceD63313156E654eAF259b](https://e
 
 |     Description    | Amount (ETH) | Notes                                         |
 | :----------------: | :----------: | --------------------------------------------- |
-|   Start Treasury   |     96.98    |                                               |
+|   Start Treasury   |    100.39    |                                               |
 | Community Expenses |    (2.28)    | Community Manager, Mod, Community ETH Winners |
 | Marketing Expenses |    (1.13)    | Social Media Manager                          |
 |                    |              |                                               |
