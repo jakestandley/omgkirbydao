@@ -21,7 +21,7 @@ Working Groups were officially announced today, so if you're currently a holder,
 
 Our plan to provide transparency for the community while letting the WGs dial in and focus on the projects is visible, but locked Discord channels. For now, those with the Session 1 Working group role will be able to type and participate in these channels, while everyone else will only have read-only permissions. The hope here is that everyone is able to see which fellow community members are contributing most and reward them.
 
-A cool highlight I want to shout out is our Twitch Stream collaboration with [DeadHeads](https://www.deadheads.io), an NFT project that managed to create an [animated webshow](https://youtu.be/yVygJiV61vM) using their tokens. Kirby created a song LIVE on his stream that the DeadHeads community is going to use as a bit of a theme song!
+A cool highlight I want to shout out is our Twitch Stream collaboration with [DeadHeads](https://www.deadheads.io/), an NFT project that managed to create an [animated webshow](https://youtu.be/yVygJiV61vM) using their tokens. Kirby created a song LIVE on his stream that the DeadHeads community is going to use as a bit of a theme song!
 
 {% embed url="https://twitter.com/DeadHeadsNFT/status/1515018452582473737" %}
 Check out our collab with DeadHeads
@@ -72,7 +72,7 @@ should & will be consolidated to a single round of voting. As we get a better se
 
 What we've noticed so far, is that a fair amount of the 'mundane' needs to be voted on, but as more of these votes pop up, engagement continues to decline.
 
-## Post Mint Wallet update <a href="#treasury-update" id="treasury-update"></a>
+## DAO Treasury update <a href="#treasury-update" id="treasury-update"></a>
 
 Multisig Wallet Address: [ 0x7291cc605653a9FCfbceD63313156E654eAF259b](https://etherscan.io/address/0x7291cc605653a9fcfbced63313156e654eaf259b).
 

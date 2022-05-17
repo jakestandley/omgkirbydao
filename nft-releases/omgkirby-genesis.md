@@ -1,0 +1,3 @@
+# omgkirby Genesis
+
+coming soon

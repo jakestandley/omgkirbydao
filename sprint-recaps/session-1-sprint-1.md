@@ -34,7 +34,7 @@ We're excited about the PFP project and what they can do for expanding our proje
 The tenets of this effort have been:
 
 1. Ramp up of marketing efforts
-2. Redesign
+2. Redesign the Discord
 3. Random contests in ❓-┃trivia throughout the day (anime/gaming, etc), giving out 1 kirby/day based upon leaderboards!
 4. Three kirbys given out to 🐸┃dank-economy leaderboards (See Pins in Economy)
 5. Sneak Peaks
@@ -67,7 +67,7 @@ Our only vote this sprint is for omgkirby's Performance Mask. This is an IRL mas
   * 1 Against (1.47%)&#x20;
   * 0 Abstain (0.0%)
 
-## Post Mint Wallet update <a href="#treasury-update" id="treasury-update"></a>
+## DAO Treasury update <a href="#treasury-update" id="treasury-update"></a>
 
 Multisig Wallet Address: [ 0x7291cc605653a9FCfbceD63313156E654eAF259b](https://etherscan.io/address/0x7291cc605653a9fcfbced63313156e654eaf259b).
 
@@ -85,7 +85,7 @@ This sprint's expenses were primarily for the Community Manager/Mod payments, an
 
 The other big driver of costs (1.18ETH) was the Sakura Event. Some of these costs include kirbies that were purchased to be given away & ETH payments to community members that [interacted on social media](https://twitter.com/omgkirbyDAO/status/1518667361846448131).
 
-I also included the [Utopia Labs](https://www.utopialabs.com) export as an example of what type of data we can expect in the future. This will be much easier than trying to track everyone's wallet address myself.
+I also included the [Utopia Labs](https://www.utopialabs.com/) export as an example of what type of data we can expect in the future. This will be much easier than trying to track everyone's wallet address myself.
 
 ## Post Mortem <a href="#post-mortem" id="post-mortem"></a>
 
@@ -148,7 +148,7 @@ I also included the [Utopia Labs](https://www.utopialabs.com) export as an examp
 
 
 
-[**omgkirbyDAO Album**](https://snapshot.org/#/omgkirby.eth/proposal/0xc774c5ec7271cac38a48acfdd186c0f59bdf7fe37e9401acecf2747f675ad6de)****
+[**omgkirbyDAO Album**](https://snapshot.org/#/omgkirby.eth/proposal/0xc774c5ec7271cac38a48acfdd186c0f59bdf7fe37e9401acecf2747f675ad6de) **by @kryptokid#6525**
 
 * _What was accomplished this sprint_
   * Found initial core Working Group team to execute the omg Kirby DAO album. Intros and expectations moving forward. Created list of potential artist to reach out to and plan on how to get those artists involved
