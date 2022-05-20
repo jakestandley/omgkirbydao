@@ -1,9 +1,10 @@
 # Table of contents
 
 * [👋 Welcome](README.md)
+* [❓ FAQ](faq/README.md)
+  * [Genesis Info](faq/genesis-info.md)
 * [💹 Treasury Info](treasury-info.md)
 * [👷♀ Working Groups](working-groups.md)
-* [❓ FAQ](faq.md)
 
 ## 🖼 NFT Releases
 
