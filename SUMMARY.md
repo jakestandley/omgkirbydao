@@ -2,6 +2,7 @@
 
 * [👋 Welcome](README.md)
 * [❓ FAQ](faq/README.md)
+  * [Roadmap v1](faq/roadmap-v1.md)
   * [Genesis Info](faq/genesis-info.md)
 * [💹 Treasury Info](treasury-info.md)
 * [👷♀ Working Groups](working-groups.md)
