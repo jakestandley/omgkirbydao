@@ -37,9 +37,10 @@ The omgkirby DAO is a community for music fans (initially Lo-fi), artists, and b
 
 **How to Download Video, Audio or Audio Stems**
 
-* Visit the Notables omgkirby portal https://www.notables.co/gallery/omgkirby
+* Visit the Notables omgkirby portal [https://www.notables.co/gallery/omgkirby-genesis](https://www.notables.co/gallery/omgkirby-genesis)
 * Connect your wallet
-*
+
+
 
 **How to Upload your NFT music to generate royalties**
 
