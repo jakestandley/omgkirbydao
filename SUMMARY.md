@@ -5,6 +5,7 @@
   * [Roadmap v1](faq/roadmap-v1.md)
   * [Genesis Info](faq/genesis-info.md)
 * [💹 Treasury Info](treasury-info.md)
+* [📩 Submit DAO Proposal](submit-dao-proposal.md)
 * [👷♀ Working Groups](working-groups.md)
 
 ## 🖼 NFT Releases
@@ -15,6 +16,7 @@
 
 ## 🏃 Sprint Recaps
 
+* [Session 1: Sprint 3](sprint-recaps/session-1-sprint-3.md)
 * [Session 1: Sprint 2](sprint-recaps/session-1-sprint-2.md)
 * [Session 1: Sprint 1](sprint-recaps/session-1-sprint-1.md)
 * [Session 1: Sprint 0](sprint-recaps/session-1-sprint-0.md)
