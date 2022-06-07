@@ -2,6 +2,10 @@
 
 **Author(s):** @jakestandley#0001
 
+**OpenSea:** [https://opensea.io/collection/dont-let-me-down](https://opensea.io/collection/dont-let-me-down)
+
+**Contract:** [0x249c052f0190f1e92b161c455843b26934bb04f2](https://etherscan.io/address/0x249c052f0190f1e92b161c455843b26934bb04f2).
+
 The DAO's first voted on collaboration song finally released last week - "don't let me down", with [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3). First of all, the song itself is great, you can share it using [this link](https://omgkirby.lnk.to/sadalex) or stream it on Spotify below...
 
 {% embed url="https://open.spotify.com/track/4vOFRTzty9ZNqq2YpIiClc?si=c2422a09f5d2443b" %}
@@ -11,10 +15,6 @@ Share "don't let me down" by omgkirby & sad alex!
 In addition, the song has already broken 15,000 streams on Spotify alone - the DAOs biggest release so far on traditional DSPs! This is an **awesome** accomplishment that is just the start for 'decentralized' artists!
 
 But the other important piece of this drop last week, was our free airdrop for all of the holders that joined our listening party on Twitter Spaces last Monday (May 9th, 2022)!  We had over **175 holders register for this free airdrop**, greater than 12% of our total unique holders! I think this is an awesome display of engagement for our community.
-
-You can check out the listing for the token on [OpenSea here](https://opensea.io/collection/dont-let-me-down).&#x20;
-
-The contract is: [0x249c052f0190f1e92b161c455843b26934bb04f2](https://etherscan.io/address/0x249c052f0190f1e92b161c455843b26934bb04f2).
 
 #### How
 
