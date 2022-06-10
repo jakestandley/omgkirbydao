@@ -6,6 +6,8 @@
 
 **Official OpenSea:** [**https://opensea.io/collection/omgkirby-avatars**](https://opensea.io/collection/omgkirby-avatars)****
 
+**Contract:**[ **** 0x480711809d2c4622Fe3F7Ef09Ee6A7FE6b8649F1](https://etherscan.io/address/0x480711809d2c4622fe3f7ef09ee6a7fe6b8649f1)
+
 ## Overview
 
 * Generative & hand-drawn drop of 5000 omgkirby PFPs are here!

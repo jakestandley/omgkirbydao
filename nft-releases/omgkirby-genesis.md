@@ -6,6 +6,8 @@
 
 **Official OpenSea:** [**https://opensea.io/collection/omgkirby-genesis**](https://opensea.io/collection/omgkirby-genesis)****
 
+**Contract:**[ 0xAFeF885027A59603dfF7837C280DaD772c476b82](https://etherscan.io/address/0xafef885027a59603dff7837c280dad772c476b82)
+
 ## Overview
 
 Over the past 2 years [we’ve created](https://open.spotify.com/playlist/6efMwGCqparrpx5aLycbED?go=1\&sp\_cid=599cbc22-bdaf-4a7a-93f7-8f8aebf23a50) some of the most popular lofi music in the space and in the process a community of 1 million monthly listeners. Today, we’re extremely excited to present a new vision for omgkirby, one that requires accepting – even embracing – loss of control. With this, we hope to unlock endless experimentation and to expand the idea of what an artist can be. The first step we’re taking to realize our vision is through the release of 3,000 unique pieces of generative lofi music and the formation of the omgkirby DAO.
