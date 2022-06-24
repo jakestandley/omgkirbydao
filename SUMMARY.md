@@ -33,3 +33,17 @@
 * [Town Halls](audio-recordings/town-halls.md)
 * [omgweb3](audio-recordings/omgweb3.md)
 * [omgvoicechat](audio-recordings/omgvoicechat.md)
+
+***
+
+* [omgkirbyDAO Lite Paper](omgkirbydao-lite-paper/README.md)
+  * [Overview](omgkirbydao-lite-paper/overview/README.md)
+    * [First Principles](omgkirbydao-lite-paper/overview/first-principles.md)
+  * [Architecture](omgkirbydao-lite-paper/architecture/README.md)
+    * [Decision Making](omgkirbydao-lite-paper/architecture/decision-making/README.md)
+      * [Types of Proposals](omgkirbydao-lite-paper/architecture/decision-making/types-of-proposals.md)
+    * [Participation](omgkirbydao-lite-paper/architecture/participation.md)
+  * [Governance Roadmap](omgkirbydao-lite-paper/governance-roadmap.md)
+  * [Tokenomics](omgkirbydao-lite-paper/tokenomics.md)
+  * [Annex 1: Governance Roadmap](omgkirbydao-lite-paper/annex-1-governance-roadmap.md)
+  * [Annex 2: Proposal Template](omgkirbydao-lite-paper/annex-2-proposal-template.md)

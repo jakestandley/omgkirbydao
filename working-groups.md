@@ -1,5 +1,7 @@
 # 👷♀ Working Groups
 
+**Author(s):** @lemondropkid#3159
+
 Over the last 2 weeks, we’ve come together to create and approve our [first Session proposal](https://snapshot.org/#/omgkirby.eth/proposal/0xc5d534bc5a33eb7d8a4aab73c60283212e55af2b9f935775b098bf781880dfca). We saw 212 community members turn out to vote. This is approx: 10% of our Discord community (\~2400). For reference, [Friends With Benefits’](https://snapshot.org/#/friendswithbenefits.eth) last 5 proposals saw between 80-260 votes, for a Discord with 11K members.&#x20;
 
 We are pleased with our beginning participation levels from the community, but strive to continue to increase participation.&#x20;

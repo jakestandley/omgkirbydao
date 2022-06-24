@@ -1,0 +1,8 @@
+# First Principles
+
+**Decentralization:** omgkirby DAO believes in decentralized music creation, where the artist and the community work in harmony to produce/publish new music. The community-owned resources are strategically utilized to disrupt gatekeeping mechanisms that act as barriers to entry for emerging and marginalized talent.
+
+1. **Intellectual Property:** omgkirby DAO is committed to developing new models of IP for the music industry. Omgkirby asset-holders have full IP of music associated with their NFTs. omgkirby DAO does not decide or have ownership in omgkirby’s current catalog of music and future covers/remixes, which are covers and used to increase the profile of omgkirby as an artist.
+2. **Community-Generated Value**: Value in the music industry is generated through connection between artists and their fans/supporters. Omgkirby DAO seeks to remove third-party actors from the music industry's value-chain.
+3. **Return of Value:** omgkirby DAO aims to create a new model of music generation, distribution and consumption that centers both artists and supporters. We will foster community leadership and incentivize value generation through community-approved reward structures.
+4. **Governing Document:** This **White Paper\[1]** is omgkirby DAO’s guiding governance document. Any of the first principles can be modified or expanded by the DAO Committee with a 2/3 majority vote, or by the DAO Community with a 2/3 majority of participating voting power and a 2/3 majority ratification by the DAO Committee. Future proposals that modify the omgkirby DAO governance structure will be referred to as “omgkirby DAO Governance Proposals'' (omg-GIP).
