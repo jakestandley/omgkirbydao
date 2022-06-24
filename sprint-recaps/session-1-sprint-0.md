@@ -15,7 +15,7 @@
 
 Session 1: Sprint 0 focused on building up the Working Groups for the DAO, and establishing some basic ways of working for how this will function in the future. In our dream state, the community will have the autonomy & ease to submit any and all proposals themselves for a formal vote by the DAO. But before
 
-@lemondropkid wrote more about Working Groups and how we envision them working [here](../working-groups.md), I strongly recommend checking it out and letting us know if you have any thoughts or feeback! The DAO experience is going to continue evolving - our goal here is to experiment with as many approaches as possible, to try & find what works best for our community.
+@lemondropkid wrote more about Working Groups and how we envision them working [here](../governance/working-groups.md), I strongly recommend checking it out and letting us know if you have any thoughts or feeback! The DAO experience is going to continue evolving - our goal here is to experiment with as many approaches as possible, to try & find what works best for our community.
 
 Working Groups were officially announced today, so if you're currently a holder, come see what everyone is working in the [gated channels of the Discord!](https://discord.com/channels/930565342592380978/937526800807002152/966098570514137168)
 

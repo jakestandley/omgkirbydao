@@ -2,7 +2,7 @@
 
 The following section details omgkirby DAO’s initial architecture and the steps that will be taken in the first stage of its development to establish its governance structure and operational procedures.
 
-![Fig. 2: Flow of influence and resources between different DAO layers and the Treasury](../../.gitbook/assets/spaces\_oZuPnhy0BcYUBXlH0KmU\_uploads\_bVvB3AaJLko6QYfxjHXD\_1.png)
+![Fig. 2: Flow of influence and resources between different DAO layers and the Treasury](../../../.gitbook/assets/spaces\_oZuPnhy0BcYUBXlH0KmU\_uploads\_bVvB3AaJLko6QYfxjHXD\_1.png)
 
 **Step 1: Treasury Formation**
 

@@ -6,4 +6,4 @@ Most of the decisions that the DAO needs to make fall within the spectrum outlin
 
 The decision-making process is, therefore, designed such that decisions within each quadrant follow a distinct flow from ‘proposal’ to ‘implementation’ reflective of where they fall on the priority spectrum.
 
-![Fig. 3: Impact - Reversibility Matrix for decision making](../../../.gitbook/assets/spaces\_oZuPnhy0BcYUBXlH0KmU\_uploads\_SiZOKQONxMKRQvgRh3ur\_2.png)
+![Fig. 3: Impact - Reversibility Matrix for decision making](../../../../.gitbook/assets/spaces\_oZuPnhy0BcYUBXlH0KmU\_uploads\_SiZOKQONxMKRQvgRh3ur\_2.png)

@@ -35,7 +35,7 @@ In addition - we want to create some VIP experiences around future drops for tho
 
 ### End of Session 1
 
-Session 1 officially came to a close last Monday on May 30th, 2022 - and with it - our first round of [Working Groups](../working-groups.md). As a reminder, we had five Working Groups, [voted on by priority](https://snapshot.org/#/omgkirby.eth/proposal/0xc5d534bc5a33eb7d8a4aab73c60283212e55af2b9f935775b098bf781880dfca), by the community. Our Working Groups were:
+Session 1 officially came to a close last Monday on May 30th, 2022 - and with it - our first round of [Working Groups](../governance/working-groups.md). As a reminder, we had five Working Groups, [voted on by priority](https://snapshot.org/#/omgkirby.eth/proposal/0xc5d534bc5a33eb7d8a4aab73c60283212e55af2b9f935775b098bf781880dfca), by the community. Our Working Groups were:
 
 * ****[**Complex voting system established**](https://snapshot.org/#/omgkirby.eth/proposal/0x850d67f2a33766bcb51b5ff1efd24ba5492a65d61879088d8d55991d32bff43c)
 * ****[**Treasury Management**](https://snapshot.org/#/omgkirby.eth/proposal/0xc1b2c368d9b0a1743d4d7530d8cb2d9b3408bc8db85d53f2eaea9f5f72b44f65)****
@@ -124,7 +124,7 @@ Make sure to check out the full breakdown for all of the metadata! Also check ou
 
 ## Post Mortem <a href="#post-mortem" id="post-mortem"></a>
 
-**Note:** Organized by [Working Group](../working-groups.md). Check out the [Session 1: Sprint 3 budget breakdown](https://docs.google.com/spreadsheets/d/1Ni7h7dwPDm8aDnXdahNSne8TEjLRrZhXmUVXdLcsFUo/edit?usp=sharing) for a full Session breakdown of each WG's budget.
+**Note:** Organized by [Working Group](../governance/working-groups.md). Check out the [Session 1: Sprint 3 budget breakdown](https://docs.google.com/spreadsheets/d/1Ni7h7dwPDm8aDnXdahNSne8TEjLRrZhXmUVXdLcsFUo/edit?usp=sharing) for a full Session breakdown of each WG's budget.
 
 [**Complex voting system established**](https://snapshot.org/#/omgkirby.eth/proposal/0x850d67f2a33766bcb51b5ff1efd24ba5492a65d61879088d8d55991d32bff43c) **by @lemondropkid#3159**
 
@@ -165,7 +165,7 @@ Make sure to check out the full breakdown for all of the metadata! Also check ou
   * Set up our [multisig wallet](https://etherscan.io/address/0x7291cc605653a9FCfbceD63313156E654eAF259b) via [Gnosis](https://gnosis-safe.io/)
   * Set up expense reporting with [Utopia Labs](https://www.utopialabs.com/)
   * Created a basic [dune dashboard](https://dune.com/jakestandley/omgkirbyDAO-Treasury), and a more complex PowerBI Dashboard
-  * Created the [treasury-info.md](../treasury-info.md "mention") page
+  * Created the [treasury-info.md](../governance/treasury-info.md "mention") page
 
 {% embed url="https://app.powerbi.com/view?r=eyJrIjoiYzgxMDUxYmEtYjMzOS00YmMyLTlmMGQtOWRkNzBiYWM1ZDU5IiwidCI6IjhkYTQ3YTBjLTEwNzUtNGNkNy1hNWRiLTAyYTEzNDI0MmIzZSIsImMiOjF9" %}
 a PowerBI dashboard created with free API calls from https://etherscan.io

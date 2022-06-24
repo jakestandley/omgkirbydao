@@ -4,9 +4,23 @@
 * [❓ FAQ](faq/README.md)
   * [Roadmap v1](faq/roadmap-v1.md)
   * [Genesis Info](faq/genesis-info.md)
-* [💹 Treasury Info](treasury-info.md)
-* [📩 Submit DAO Proposal](submit-dao-proposal.md)
-* [👷♀ Working Groups](working-groups.md)
+
+## 🏛 Governance
+
+* [omgkirbyDAO Lite Paper](governance/omgkirbydao-lite-paper/README.md)
+  * [Overview](governance/omgkirbydao-lite-paper/overview/README.md)
+    * [First Principles](governance/omgkirbydao-lite-paper/overview/first-principles.md)
+  * [Architecture](governance/omgkirbydao-lite-paper/architecture/README.md)
+    * [Decision Making](governance/omgkirbydao-lite-paper/architecture/decision-making/README.md)
+      * [Types of Proposals](governance/omgkirbydao-lite-paper/architecture/decision-making/types-of-proposals.md)
+    * [Participation](governance/omgkirbydao-lite-paper/architecture/participation.md)
+  * [Governance Roadmap](governance/omgkirbydao-lite-paper/governance-roadmap.md)
+  * [Tokenomics](governance/omgkirbydao-lite-paper/tokenomics.md)
+  * [Annex 1: Governance Roadmap](governance/omgkirbydao-lite-paper/annex-1-governance-roadmap.md)
+  * [Annex 2: Proposal Template](governance/omgkirbydao-lite-paper/annex-2-proposal-template.md)
+* [👷♀ Working Groups](governance/working-groups.md)
+* [💹 Treasury Info](governance/treasury-info.md)
+* [📩 Submit DAO Proposal](governance/submit-dao-proposal.md)
 
 ## 🖼 NFT Releases
 
@@ -33,17 +47,3 @@
 * [Town Halls](audio-recordings/town-halls.md)
 * [omgweb3](audio-recordings/omgweb3.md)
 * [omgvoicechat](audio-recordings/omgvoicechat.md)
-
-***
-
-* [omgkirbyDAO Lite Paper](omgkirbydao-lite-paper/README.md)
-  * [Overview](omgkirbydao-lite-paper/overview/README.md)
-    * [First Principles](omgkirbydao-lite-paper/overview/first-principles.md)
-  * [Architecture](omgkirbydao-lite-paper/architecture/README.md)
-    * [Decision Making](omgkirbydao-lite-paper/architecture/decision-making/README.md)
-      * [Types of Proposals](omgkirbydao-lite-paper/architecture/decision-making/types-of-proposals.md)
-    * [Participation](omgkirbydao-lite-paper/architecture/participation.md)
-  * [Governance Roadmap](omgkirbydao-lite-paper/governance-roadmap.md)
-  * [Tokenomics](omgkirbydao-lite-paper/tokenomics.md)
-  * [Annex 1: Governance Roadmap](omgkirbydao-lite-paper/annex-1-governance-roadmap.md)
-  * [Annex 2: Proposal Template](omgkirbydao-lite-paper/annex-2-proposal-template.md)

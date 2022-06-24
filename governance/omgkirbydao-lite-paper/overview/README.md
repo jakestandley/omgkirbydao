@@ -19,4 +19,4 @@ The omgkirby DAO is made up of multiple modular layers with the artist at the ce
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <ul><li>Founding project team</li><li>Protects the organizational treasury</li><li>Serves as the source of regulation and control in a decentralized system</li></ul> | <ul><li>Token-gated: Comprises owners of genesis NFT drop as well as new PFP holders</li><li>Members organize into working groups of “DAO contributors.”</li></ul> |
 
-![Fig. 1: Anatomy of omgkirby DAO. Each distinct layer of the DAO has varying degrees of sovereignty and permeability.](../../.gitbook/assets/spaces\_oZuPnhy0BcYUBXlH0KmU\_uploads\_CjGz93HAMKMGwykbdWdi\_0.png)
+![Fig. 1: Anatomy of omgkirby DAO. Each distinct layer of the DAO has varying degrees of sovereignty and permeability.](../../../.gitbook/assets/spaces\_oZuPnhy0BcYUBXlH0KmU\_uploads\_CjGz93HAMKMGwykbdWdi\_0.png)

@@ -155,7 +155,7 @@ This sprint I built the update entirely using [Utopia Labs](https://www.utopiala
 
 ## Post Mortem <a href="#post-mortem" id="post-mortem"></a>
 
-**Note:** Organized by [Working Group](../working-groups.md)
+**Note:** Organized by [Working Group](../governance/working-groups.md)
 
 ****[**Complex voting system established**](https://snapshot.org/#/omgkirby.eth/proposal/0x850d67f2a33766bcb51b5ff1efd24ba5492a65d61879088d8d55991d32bff43c) **by @lemondropkid#3159**
 

@@ -89,7 +89,7 @@ I also included the [Utopia Labs](https://www.utopialabs.com/) export as an exam
 
 ## Post Mortem <a href="#post-mortem" id="post-mortem"></a>
 
-**Note:** Organized by [Working Group](../working-groups.md)
+**Note:** Organized by [Working Group](../governance/working-groups.md)
 
 ****[**Complex voting system established**](https://snapshot.org/#/omgkirby.eth/proposal/0x850d67f2a33766bcb51b5ff1efd24ba5492a65d61879088d8d55991d32bff43c) **by @lemondropkid#3159**
 
@@ -108,7 +108,7 @@ I also included the [Utopia Labs](https://www.utopialabs.com/) export as an exam
 * _What was accomplished this sprint_
   * We had our kick off call with the working group and established some next steps for this upcoming sprint
     * I have created a [basic Google Sheet](https://docs.google.com/spreadsheets/d/1DOqG6WThAw46U3guUx\_1PA-7bPOTO0q5U0OKn9I6aEw/edit?usp=sharing) to capture some information that will help us understand (a) what other DAOs are doing to manage their treasury and (b) what tools exist to aid us in treasury management.&#x20;
-    * I am going to work on establishing a baseline 'dashboard' for our Treasury so we can track some basic metrics such as gross holdings, burn rate, etc. and (ideally) embed it in [treasury-info.md](../treasury-info.md "mention").
+    * I am going to work on establishing a baseline 'dashboard' for our Treasury so we can track some basic metrics such as gross holdings, burn rate, etc. and (ideally) embed it in [treasury-info.md](../governance/treasury-info.md "mention").
     * Going to work with @1owkey.eth#0711 to understand what % of our treasury should remain liquid to be able to realistically participate in IRL events.
 * _Did you achieve or fall behind your proposed goals - why?_
   * We fell a little behind our[ Sprint goals](https://airtable.com/shrTy5Awdb0JBjRfm). This was mainly driven by difficult scheduling a group call & on me for delegation. Need to better understand availability and figure out how to best work asynchronously.
